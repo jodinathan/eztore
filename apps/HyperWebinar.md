@@ -21,8 +21,12 @@ Seguindo nosso exemplo com o curso de violão, poderíamos começar o webinário
  - Notificação de início de evento
  - Scripts de integração
  - Integrações de lista com CampaignMonitor, MailChimp e outros
- - 
+ - Chamadas de ação
+ - e muito mais!
+
+## Congressos
+Crie congressos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI5MjgwMjQsLTE0ODc1NDkxODcsLTE1MD
-gzMzQ5NTksLTE2MDI2NTIzMjhdfQ==
+eyJoaXN0b3J5IjpbODM2NjY1NTkxLC0xNDg3NTQ5MTg3LC0xNT
+A4MzM0OTU5LC0xNjAyNjUyMzI4XX0=
 -->
