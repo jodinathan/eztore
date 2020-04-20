@@ -12,11 +12,11 @@ Os Parceiros da Eduzz recebem descontos em uma ampla gama de softwares e serviç
 
 ## Benefícios do Programa
 
-Fazer parte de um Ecossistema: Devs podem crescer juntos, aprender juntos e compartilhar conhecimentos, a utilização de um ecossistema ajudará a tornar esse programa mais atrativo.
+**Fazer parte de um Ecossistema**: Devs podem crescer juntos, aprender juntos e compartilhar conhecimentos, a utilização de um ecossistema ajudará a tornar esse programa mais atrativo.
 
-Visualização em destaque para os clientes Eduzz: Através dos recursos disponibilizados de acordo com o plano selecionado, você poderá atrair mais clientes para sua aplicação, criando e/ou aumentando sua visibilidade sem custos de prospecção.
+**Visualização em destaque para os clientes Eduzz**: Através dos recursos disponibilizados de acordo com o plano selecionado, você poderá atrair mais clientes para sua aplicação, criando e/ou aumentando sua visibilidade sem custos de prospecção.
 
-Apoio direto estratégias de go-to-market: Através de um onboarding e do processo de integração você terá nosso apoio e suporte para colocar sua aplicação no ar o quanto antes.
+_Apoio direto estratégias de go-to-market**: Através de um onboarding e do processo de integração você terá nosso apoio e suporte para colocar sua aplicação no ar o quanto antes.
 
 Conteúdos e Recursos Exclusivos: Tenha acesso a um portal com conteúdos exclusivos sobre o nosso mercado e recursos para seu crescimento.
 
@@ -34,5 +34,5 @@ Uma vez que você tenha a ideia ou o software, acesse esse formulário para entr
 
 Observe que em todos os casos é necessário que sua aplicação efetue transações pela Eduzz. O Valor informado em Comissões é relativo ao valor cobrado pela Eduzz da sua aplicação. Para cada pacote você tem ações de marketing diferentes, escolha aquele que melhor se enquadra nas suas necessidades, e caso queira um plano personalizado, entre em contato.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NTE5NjY2Ml19
+eyJoaXN0b3J5IjpbMTMxMDI3NDEzLDEwODUxOTY2NjJdfQ==
 -->
