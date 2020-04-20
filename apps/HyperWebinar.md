@@ -13,11 +13,12 @@ Como o HyperWebinar pode nos ajudar a **aumentar a conversão**?
 De uma maneira inteligente!  
 
 Podemos configurar um questionário em qualquer momento do nosso webinário e a partir da resposta do visitante, leva-lo a outro momento do vídeo ou para um outro vídeo totalmente diferente.  
-Seguindo nosso exemplo com o curso de violão, poderíamos começar o webinário de forma genérica e, em certo momento, perguntar: "*Você já tocou violão em público?*". E a partir da resposta do visitante, colocar um vídeo que use **gatilhos específicos** que **aumentam significativamente a conversão**.  
+Seguindo nosso exemplo com o curso de violão, poderíamos começar o webinário de forma genérica e, em certo momento, perguntar: "*Você já tocou violão em público?*". E a partir da resposta do visitante, colocar um vídeo que use **gatilhos específicos** que **aumentem significativamente a conversão**.  
 
 ## Ferramentas para criar webinários precisos
- - Chats automatizados para 
+ - Chats automatizados para engajar o público
+ - Personagens cadastráveis que podem ser reutilizados nos even
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDgzMzQ5NTksLTE2MDI2NTIzMjhdfQ
-==
+eyJoaXN0b3J5IjpbMTEzNjE1ODQ4NiwtMTUwODMzNDk1OSwtMT
+YwMjY1MjMyOF19
 -->
