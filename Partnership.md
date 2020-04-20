@@ -22,3 +22,6 @@
 <p>É necessário escolher um Plano de Parceria, de acordo com suas necessidades.</p>
 <p>Observe que em todos os casos é necessário que sua aplicação efetue transações pela Eduzz. O Valor informado em Comissões é relativo ao valor cobrado pela Eduzz da sua aplicação. Para cada pacote você tem ações de marketing diferentes, escolha aquele que melhor se enquadra nas suas necessidades, e caso queira um plano personalizado, entre em contato.</p>
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE5MDEwMDUxOThdfQ==
+-->
