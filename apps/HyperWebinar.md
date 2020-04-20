@@ -25,8 +25,8 @@ Seguindo nosso exemplo com o curso de violão, poderíamos começar o webinário
  - e muito mais!
 
 ## Congressos
-Crie congressos
+Crie e automatize congressos online e conquiste autoridade no seu assunto! 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM2NjY1NTkxLC0xNDg3NTQ5MTg3LC0xNT
-A4MzM0OTU5LC0xNjAyNjUyMzI4XX0=
+eyJoaXN0b3J5IjpbLTE3OTA0MTc2OTIsLTE0ODc1NDkxODcsLT
+E1MDgzMzQ5NTksLTE2MDI2NTIzMjhdfQ==
 -->
