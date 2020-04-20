@@ -17,8 +17,9 @@ Seguindo nosso exemplo com o curso de violão, poderíamos começar o webinário
 
 ## Ferramentas para criar webinários precisos
  - Chats automatizados para engajar o público
- - Personagens cadastráveis que podem ser reutilizados nos even
+ - Personagens cadastráveis que podem ser reutilizados nos eventos
+ - Notificação por e-mail
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNjE1ODQ4NiwtMTUwODMzNDk1OSwtMT
-YwMjY1MjMyOF19
+eyJoaXN0b3J5IjpbLTE0ODc1NDkxODcsLTE1MDgzMzQ5NTksLT
+E2MDI2NTIzMjhdfQ==
 -->
