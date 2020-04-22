@@ -29,12 +29,12 @@ Os Parceiros da Eduzz recebem descontos em uma ampla gama de softwares e serviç
 
 Para fazer parte do programa de parceria é necessário ter um software ou desenvolver um aplicativo que esteja em conformidade com nossas necessidades. Você poderá acessar o Banco de Ideias para gerar novos insights de aplicações.
 
-Uma vez que você tenha a ideia ou o software, acesse esse formulário para entrarmos em contato com você e disponibilizarmos os recursos necessários.
+Uma vez que você tenha a ideia ou o software, [acesse esse formulário](https://docs.google.com/forms/d/e/1FAIpQLSeFCxn4JdLoHaMd7iUaZtkj_PVhFokpn_bUDE0qahwVci_C2A/viewform) para entrarmos em contato com você e disponibilizarmos os recursos necessários.
 
-É necessário escolher um Plano de Parceria, de acordo com suas necessidades.
+Após preencher com seus dados, entraremos em contato para dar seguimento aos próximos passos da parceria! 
 
-Observe que em todos os casos é necessário que sua aplicação efetue transações pela Eduzz. O Valor informado em Comissões é relativo ao valor cobrado pela Eduzz da sua aplicação. Para cada pacote você tem ações de marketing diferentes, escolha aquele que melhor se enquadra nas suas necessidades, e caso queira um plano personalizado, entre em contato.
+***#VemCrescerComAGente***
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzI0NzU4OTYsLTE5MDEwMDUxOThdfQ
-==
+eyJoaXN0b3J5IjpbLTQ2ODAxMjk1OCwtMTYzMjQ3NTg5NiwtMT
+kwMTAwNTE5OF19
 -->
